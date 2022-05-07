@@ -1,0 +1,13 @@
+.todo_list{
+    display: flex;
+    flex-direction: column;
+}
+
+.button{
+    width: 120px;
+}
+
+.todos{
+    padding: 0;
+    margin: 0;
+}
